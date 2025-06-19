@@ -78,8 +78,8 @@ Antes de rodar o projeto localmente, certifique-se de ter instalado:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
+    git clone [https://github.com/diegorchaves/simple-task-management-api.git](https://github.com/diegorchaves/simple-task-management-api.git)
+    cd simple-task-management-api
     ```
 2.  **Inicie o servidor PostgreSQL.**
 3.  **Compile e execute o aplicativo Spring Boot:**
